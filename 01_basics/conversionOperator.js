@@ -34,3 +34,35 @@ console.log(typeof numToStr);
 // to convert number to String
 
 // *****************Operation*****************
+let value = 4
+let negValue = -value
+console.log(negValue);
+// console.log(2-3);
+// console.log(5*3);
+// console.log(2/3);
+// console.log(2**3);
+// console.log(5%3);
+
+
+let str1= "Hello"
+let str2= "Lokesh"
+let str3= str1+str2
+console.log(str3);
+
+console.log("1"+2); // 12
+console.log(1+"2"); // 12
+console.log("1"+"2"); // 12
+console.log("1"+2+2); // 122
+console.log(1+2+"2"); // 32
+
+
+
+let gamechanger = 100
+
+gamechanger++;
+console.log(gamechanger);
+
+// notes (prefix and postfix)
+// prefix means the value of variable is increment reguraly.
+// postfix means the value of variable is increment after the expression is evaluated.
+
