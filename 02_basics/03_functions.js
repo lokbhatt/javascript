@@ -26,7 +26,7 @@ let f = toCelsius(110);
 /**
  * Arrow function:-
  * this is same as function but reduce its syntax.
- * it have both return statemant and normal sattement 
+ * it have both return statemant and normal statement 
  * in return statement we can use {} of that function
  * in normal statement we can use () of that function.
  */
@@ -64,7 +64,7 @@ console.log(b())
 /**
  * this keyword:-
  * this is also different in arrow function compared to regular function
- * with arrow function no binding of "this", represent owner od function.
+ * with arrow function no binding of "this", represent owner of function.
  * in regular function "this" keyword used as object.
  */
 arrow = () => {
